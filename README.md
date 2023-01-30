@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+🔭 I’m comfortable with the following: React, TypeScript, JavaScript, Blockchain
+👯 I’m looking to collaborate on Frontend projects
+🌱 I’m currently learning Rust and React Native
+📫 How to reach me: ebubeagwaze@gmail.com
 <!--
 **Ebube111/Ebube111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
