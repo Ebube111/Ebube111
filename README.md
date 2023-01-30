@@ -1,6 +1,7 @@
-### Hi there 👋
-🔭 I’m comfortable with the following: React, TypeScript, JavaScript, Blockchain
-👯 I’m looking to collaborate on Frontend projects
+## Hi there 👋
+### I'm Ebube, A Software Engineer
+🔭 I’m comfortable with the following: React, TypeScript, JavaScript, Apollo GraphQL Blockchain
+👯 I’m looking to collaborate on Frontend projects and blockchain
 🌱 I’m currently learning Rust and React Native
 📫 How to reach me: ebubeagwaze@gmail.com
 <!--
